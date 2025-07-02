@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQGD0ScyRm0anA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731066178938?e=1756944000&v=beta&t=XHKACNxV2J2l9qKkzrHjrDSEYW2ePhZnY6NoS2M2bt8" alt="Shashi Shekhar Pathak Banner" width="800"/>
+
   <h1>👋 Hi there, I'm Shashi Shekhar Pathak!</h1>
   <h3>A Results-Driven Computer Engineer | Front-End Developer | Aspiring Scrum Master & Business Analyst</h3>
 </div>

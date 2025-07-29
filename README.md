@@ -30,7 +30,7 @@ My goal is to leverage my technical expertise and leadership qualities to drive 
   </a>
 </p>
 
-📍 **Location:** Ghattekulo, Kathmandu, Nepal
+📍 **Location:** Imadol, Lalitpur, Nepal
 
 ---
 

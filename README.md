@@ -17,7 +17,7 @@ My goal is to leverage my technical expertise and leadership qualities to drive 
 
 <p align="center">
   <a href="tel:9840287647" title="Call Me">
-    <img src="https://img.shields.io/badge/Phone-9840287647-blue?style=flat&logo=phonepe&logoColor=white" alt="Phone">
+    <img src="https://img.shields.io/badge/Phone-9840287647-blue?style=flat" alt="Phone">
   </a>
   <a href="mailto:shashipathak446@gmail.com" title="Email Me">
     <img src="https://img.shields.io/badge/Email-shashipathak446@gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email">

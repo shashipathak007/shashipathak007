@@ -1,19 +1,17 @@
-
-  <h1>👋 Hi there, I'm Shashi Shekhar Pathak!</h1>
-  <h3>A Results-Driven Computer Engineer | Front-End Developer | Aspiring Scrum Master & Business Analyst</h3>
-</div>
+<h1>👋 Hi, I'm Shashi Shekhar Pathak!</h1>
+<h3>A Results-Driven Computer Engineer | Front-End Developer | Aspiring Scrum Master & Business Analyst</h3>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-A passionate **Computer Engineer** with a robust background in crafting intuitive and responsive user interfaces. I specialize in **front-end development** using **React**, **JavaScript**, and **Tailwind CSS**. Beyond coding, I bring proven **project management** skills to the table, deeply understanding **Scrum Methodology** and **Business Analysis**.
+I'm a passionate **Computer Engineer** with a strong background in crafting intuitive and responsive user interfaces. I specialize in **front-end development** using **React**, **JavaScript**, and **Tailwind CSS**. Beyond coding, I bring proven **project management** skills to the table, with a deep understanding of **Scrum Methodology** and **Business Analysis**.
 
 My goal is to leverage my technical expertise and leadership qualities to drive successful project outcomes, contributing as a **Scrum Master** or **Business Analyst** in a dynamic software development environment.
 
 ---
 
-## 🌐 Connect With Me
+## Connect with Me
 
 <p align="center">
   <a href="tel:9840287647" title="Call Me">
@@ -34,27 +32,28 @@ My goal is to leverage my technical expertise and leadership qualities to drive 
 
 ---
 
-## 🛠️ My Skill Arsenal
+## My Skill Arsenal
 
-### Front-End Development 💻
+### Front-End Development
 * **HTML & CSS**
 * **JavaScript**
-* **React** <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" alt="React Badge"/>
-* **Tailwind CSS** <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS Badge"/>
+* **React**
+* **Tailwind CSS**
+* **Git & GitHub**
 
-### Project Management & Analysis 📊
-* **Scrum Methodology** <img src="https://img.shields.io/badge/-Scrum-F14E32?style=flat&logo=scrum&logoColor=white" alt="Scrum Badge"/>
+### Project Management & Analysis
+* **Scrum Methodology**
 * **Business Analysis**
 * **Project Coordination & Planning**
 
-### Soft Skills ⭐
+### Soft Skills
 * Strong Communication
 * Time Management
 * Team Collaboration
 
 ---
 
-## 🎓 Education
+## Education
 
 ### **BE Computer Engineering**
 **National Academy Of Science and Technology** / Dhangadhi
@@ -69,17 +68,16 @@ _October 2019 - November 2024_
 
 ---
 
-## 📜 Certifications & Training
+## Certifications & Training
 
 * **ICT Project Management**
-    > Involves planning and executing tech projects to meet goals on time and within budget, while managing resources and risks effectively.
-
 * **Front-End Web Development**
-    > Focused on building the user interface and experience of websites using HTML, CSS, and JavaScript to create interactive and responsive designs.
+* **Tailwind CSS**
+* **React**
 
 ---
 
-## 🚀 My Projects
+## My Projects
 
 Dive into some of my recent work!
 

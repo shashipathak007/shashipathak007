@@ -13,16 +13,16 @@ Computer Engineer specializing in Front-End Development with hands-on experience
 
 <p align="center">
   <a href="tel:9840287647" title="Call Me">
-    <img src="https://img.shields.io/badge/Phone-9840287647-blue?style=flat" alt="Phone">
+    <img src="https://img.shields.io/badge/Phone-9840287647-blue?style=flat&logo=whatsapp&logoColor=white" alt="Phone">
   </a>
   <a href="mailto:shashipathak446@gmail.com" title="Email Me">
-    <img src="https://img.shields.io/badge/Email-shashipathak446@gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-shashipathak446@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/shashi-s-pathak-0a667a337/" target="_blank" title="My LinkedIn Profile">
-    <img src="https://www.linkedin.com/in/shashi-s-pathak-0a667a337/" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Shashi_S._Pathak-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/shashipathak007" target="_blank" title="My GitHub Profile">
-    <img src="https://img.shields.io/badge/GitHub-shashipathak007-black?style=flat&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-shashipathak007-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 

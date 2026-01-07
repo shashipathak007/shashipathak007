@@ -19,7 +19,7 @@ Computer Engineer specializing in Front-End Development with hands-on experience
     <img src="https://img.shields.io/badge/Email-shashipathak446@gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/shashi-s-pathak-a6449520a/" target="_blank" title="My LinkedIn Profile">
-    <img src="https://img.shields.io/badge/LinkedIn-Shashi%20S.%20Pathak-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://www.linkedin.com/in/shashi-s-pathak-0a667a337/" alt="LinkedIn">
   </a>
   <a href="https://github.com/shashipathak007" target="_blank" title="My GitHub Profile">
     <img src="https://img.shields.io/badge/GitHub-shashipathak007-black?style=flat&logo=github&logoColor=white" alt="GitHub">

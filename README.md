@@ -5,9 +5,7 @@
 
 ## About Me
 
-I'm a passionate **Computer Engineer** with a strong background in crafting intuitive and responsive user interfaces. I specialize in **front-end development** using **React**, **JavaScript**, and **Tailwind CSS**. Beyond coding, I bring proven **project management** skills to the table, with a deep understanding of **Scrum Methodology** and **Business Analysis**.
-
-My goal is to leverage my technical expertise and leadership qualities to drive successful project outcomes, contributing as a **Scrum Master** or **Business Analyst** in a dynamic software development environment.
+Computer Engineer specializing in Front-End Development with hands-on experience building responsive, user-centric web applications using React, JavaScript, and Tailwind CSS. Skilled in deploying scalable applications on Netlify and Vercel, integrating APIs, and following Agile and Scrum practices. Strong foundation in SQL, MongoDB, and Git/GitHub, with a focus on delivering clean, performant, and maintainable code. Proven ability to collaborate with cross functional teams and translate business requirements into effective digital solutions.
 
 ---
 

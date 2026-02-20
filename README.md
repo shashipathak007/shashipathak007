@@ -2,11 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shashi%20Shekhar%20Pathak&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20Computer%20Engineer%20%7C%20Nepal&descAlignY=55&descSize=16" width="100%"/>
 </div>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Building+clean%2C+performant+UIs+%F0%9F%9A%80;React+%7C+Tailwind+CSS+%7C+JavaScript;Turning+ideas+into+digital+experiences+%E2%9C%A8;Open+to+roles%2C+freelance+%26+collabs+%F0%9F%A4%9D)](https://git.io/typing-svg)
-
-</div>
 
 <div align="center">
 
@@ -53,40 +48,40 @@ Computer Engineer specializing in **Frontend Development**, focused on building 
 
 ## Projects
 
-### 🧠 Mind and Brain — *Online Counseling Platform* &nbsp;`In Progress`
+###  Mind and Brain — *Online Counseling Platform* &nbsp;`In Progress`
 Interactive front-end for a counseling platform that visualizes brain function data. Leading component design, state management, and UX.  
 **Stack:** HTML · JavaScript · Tailwind CSS  
-🔗 [Live Demo](https://shashipathak007.github.io/MindAndBrain1/)
+ [Live Demo](https://shashipathak007.github.io/MindAndBrain1/)
 
 ---
 
-### 🛍️ ShopMe — *E-Commerce Platform* &nbsp;`In Progress`
+###  ShopMe — *E-Commerce Platform* &nbsp;`In Progress`
 Full-featured shopping site with product listings, dynamic cart, user authentication, and checkout flow. Built mobile-first with reusable React components.  
 **Stack:** React · Tailwind CSS · JavaScript  
-🔗 [GitHub Repo](https://github.com/shashipathak007/shopmee)
+ [GitHub Repo](https://github.com/shashipathak007/shopmee)
 
 ---
 
-### 📈 Genvest Pvt Ltd — *Investment Company Website*
+###  Genvest Pvt Ltd — *Investment Company Website*
 Professional frontend for an investment management firm. Translated design mockups into pixel-perfect, responsive, cross-browser pages.  
 **Stack:** HTML · CSS  JavaScript
-🔗 [Live Demo](https://shashipathak007.github.io/Genv/)
+ [Live Demo](https://shashipathak007.github.io/Genv/)
 
 ---
 
-### 📊 Result Management System — *Major Academic Project*
+###  Result Management System — *Major Academic Project*
 End-to-end system for storing and displaying student academic records, with a secure admin backend and student-facing portal.  
 **Stack:** HTML · CSS · JavaScript · MySQL
 
 ---
 
-### 💊 Pharmacy Management System — *Minor Academic Project*
+###  Pharmacy Management System — *Minor Academic Project*
 Desktop application for pharmacy operations — inventory, billing, expiry tracking, and sales reporting.  
 **Stack:** C# · WPF · SQL Server
 
 ---
 
-### 💧 Automatic Irrigation System — *Hardware Project*
+###  Automatic Irrigation System — *Hardware Project*
 Arduino-based smart irrigation system using soil moisture sensors to trigger a water pump automatically, reducing water waste.  
 **Stack:** Arduino · C++
 

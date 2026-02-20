@@ -1,119 +1,124 @@
-<h1>👋 Hi, I'm Shashi Shekhar Pathak!</h1>
-<h3>A Results-Driven Computer Engineer | Front-End Developer | Aspiring Scrum Master & Business Analyst</h3>
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shashi%20Shekhar%20Pathak&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20Computer%20Engineer%20%7C%20Nepal&descAlignY=55&descSize=16" width="100%"/>
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Building+clean%2C+performant+UIs+%F0%9F%9A%80;React+%7C+Tailwind+CSS+%7C+JavaScript;Turning+ideas+into+digital+experiences+%E2%9C%A8;Open+to+roles%2C+freelance+%26+collabs+%F0%9F%A4%9D)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashi-s-pathak-0a667a337/)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashipathak446@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashipathak007)
+[![Location](https://img.shields.io/badge/📍-Lalitpur,_Nepal-00897B?style=for-the-badge)](https://maps.google.com/?q=Lalitpur,Nepal)
+
+![Profile Views](https://komarev.com/ghpvc/?username=shashipathak007&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS)
+
+</div>
 ---
 
 ## About Me
 
-Computer Engineer specializing in Front-End Development with hands-on experience building responsive, user-centric web applications using React, JavaScript, and Tailwind CSS. Skilled in deploying scalable applications on Netlify and Vercel, integrating APIs, and following Agile and Scrum practices. Strong foundation in SQL, MongoDB, and Git/GitHub, with a focus on delivering clean, performant, and maintainable code. Proven ability to collaborate with cross functional teams and translate business requirements into effective digital solutions.
+Computer Engineer specializing in **Frontend Development**, focused on building responsive, user-centric web applications with React, JavaScript, and Tailwind CSS. I care about clean, performant code and translating business needs into polished digital experiences.
+
+- 🔭 Currently building **Mind and Brain** (online counseling platform) and **ShopMe** (e-commerce)
+- 🌱 Deepening skills in **Agile/Scrum** and **Business Analysis**
+- 🚀 Comfortable deploying on **Netlify**, **Vercel**, and **GitHub Pages**
+- 📍 Based in Imadol, Lalitpur, Nepal
 
 ---
 
-## Connect with Me
+## Tech Stack
 
-<p align="center">
-  <a href="tel:9840287647" title="Call Me">
-    <img src="https://img.shields.io/badge/Phone-9840287647-blue?style=flat&logo=whatsapp&logoColor=white" alt="Phone">
-  </a>
-  <a href="mailto:shashipathak446@gmail.com" title="Email Me">
-    <img src="https://img.shields.io/badge/Email-shashipathak446@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/shashi-s-pathak-0a667a337/" target="_blank" title="My LinkedIn Profile">
-    <img src="https://img.shields.io/badge/LinkedIn-Shashi_S._Pathak-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/shashipathak007" target="_blank" title="My GitHub Profile">
-    <img src="https://img.shields.io/badge/GitHub-shashipathak007-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+**Frontend**
 
-📍 **Location:** Imadol, Lalitpur, Nepal
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-## My Skill Arsenal
+## Projects
 
-### Front-End Development
-* **HTML & CSS**
-* **JavaScript**
-* **React**
-* **Tailwind CSS**
-* **Git & GitHub**
+### 🧠 Mind and Brain — *Online Counseling Platform* &nbsp;`In Progress`
+Interactive front-end for a counseling platform that visualizes brain function data. Leading component design, state management, and UX.  
+**Stack:** HTML · JavaScript · Tailwind CSS  
+🔗 [Live Demo](https://shashipathak007.github.io/MindAndBrain1/)
 
-### Project Management & Analysis
-* **Scrum Methodology**
-* **Business Analysis**
-* **Project Coordination & Planning**
+---
 
-### Soft Skills
-* Strong Communication
-* Time Management
-* Team Collaboration
+### 🛍️ ShopMe — *E-Commerce Platform* &nbsp;`In Progress`
+Full-featured shopping site with product listings, dynamic cart, user authentication, and checkout flow. Built mobile-first with reusable React components.  
+**Stack:** React · Tailwind CSS · JavaScript  
+🔗 [GitHub Repo](https://github.com/shashipathak007/shopmee)
+
+---
+
+### 📈 Genvest Pvt Ltd — *Investment Company Website*
+Professional frontend for an investment management firm. Translated design mockups into pixel-perfect, responsive, cross-browser pages.  
+**Stack:** HTML · CSS  JavaScript
+🔗 [Live Demo](https://shashipathak007.github.io/Genv/)
+
+---
+
+### 📊 Result Management System — *Major Academic Project*
+End-to-end system for storing and displaying student academic records, with a secure admin backend and student-facing portal.  
+**Stack:** HTML · CSS · JavaScript · MySQL
+
+---
+
+### 💊 Pharmacy Management System — *Minor Academic Project*
+Desktop application for pharmacy operations — inventory, billing, expiry tracking, and sales reporting.  
+**Stack:** C# · WPF · SQL Server
+
+---
+
+### 💧 Automatic Irrigation System — *Hardware Project*
+Arduino-based smart irrigation system using soil moisture sensors to trigger a water pump automatically, reducing water waste.  
+**Stack:** Arduino · C++
 
 ---
 
 ## Education
 
-### **BE Computer Engineering**
-**National Academy Of Science and Technology** / Dhangadhi
-_October 2019 - November 2024_
-> Focused on designing and developing computer systems, software, and hardware, combining computer science and electrical engineering principles.
+| Degree | Institution | Year |
+|--------|-------------|------|
+| BE Computer Engineering | National Academy of Science and Technology, Dhangadhi | 2019 – 2024 |
+| +2 Science | National Academy of Science and Technology, Dhangadhi | — |
+| SEE | Gyan Niketan English Boarding School, Dhangadhi | — |
 
-### **+2 Science**
-**National Academy of Science and Technology** / Dhangadhi
-
-### **SEE**
-**Gyan Niketan English Boarding School** / Dhangadhi
+**Certifications:** ICT Project Management · Frontend Web Development · Tailwind CSS · React
 
 ---
 
-## Certifications & Training
 
-* **ICT Project Management**
-* **Front-End Web Development**
-* **Tailwind CSS**
-* **React**
+<div align="center">
 
----
+I'm actively looking for **frontend roles**, **freelance projects**, and **open-source collaborations**.  
+If you have something interesting, let's talk!
 
-## My Projects
+<br/>
 
-Dive into some of my recent work!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashi-s-pathak-0a667a337/)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashipathak446@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+977_9840287647-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9779840287647)
 
-### 🧠 **Mind and Brain Project (Online Counseling Platform)** | *Ongoing*
-* **Description:** Architecting and developing a highly interactive and responsive front-end for an innovative online counseling platform. The application is designed to visualize complex brain function data, enabling users to intuitively explore and understand neural activity.
-* **My Role:** Leading the front-end development, including component design, state management, and ensuring a seamless and performant user experience.
-* **Technologies:** React, JavaScript, Tailwind CSS
-* **Live Link:** [Mind and Brain](https://shashipathak007.github.io/MindAndBrain1/)
+<br/>
 
-### 🛍️ **E-commerce Site (ShopMe)** | *Ongoing*
-* **Description:** Building a modern, fully responsive e-commerce platform focused on performance and a clean UI/UX. The site features product listings, a dynamic shopping cart, user authentication, and a streamlined checkout process.
-* **My Role:** Developing the application from the ground up, utilizing React for creating dynamic and reusable UI components and Tailwind CSS for a consistent and mobile-first design system.
-* **Technologies:** React, Tailwind CSS, JavaScript
-* **GitHub Repo:** [ShopMe Repository](https://github.com/shashipathak007/shopmee.git)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-### 📈 **Front-End Website for Genvest Pvt Ltd**
-* **Description:** Designed and launched a professional, interactive front-end for an investment management company. The project focused on creating an engaging user experience with intuitive navigation and a visually appealing design.
-* **My Role:** Translated design mockups into pixel-perfect, functional web pages, implemented interactive elements, and ensured cross-browser compatibility and responsiveness.
-* **Technologies:** ReactJS, CSS
-* **Live Link:** [Genvest Pvt Ltd](https://shashipathak007.github.io/Genv/)
-
-### 📊 **Result Management System (Major Project)**
-* **Description:** Led the development of a comprehensive Result Management System to efficiently store, manage, and display student academic records. The system features a secure administrative backend and an intuitive student-facing portal.
-* **My Role:** Oversaw the project lifecycle, architected the database schema, and developed distinct modules for administrators to securely manage results and for students to access their academic progress.
-* **Technologies:** HTML, CSS, JavaScript, SQL (MySQL)
-
-### 💊 **Pharmacy Management System (Minor Project)**
-* **Description:** Developed a robust desktop application to streamline and automate core pharmacy operations, including inventory control, sales processing, and customer data management.
-* **My Role:** Built key features such as comprehensive stock management (tracking quantities, expiry dates, reorder levels), an efficient billing system, and detailed reporting for sales and inventory analysis.
-* **Technologies:** C#, Windows Forms / WPF, SQL Server
-
-### 💧 **Automatic Irrigation System**
-* **Description:** Engineered an innovative automatic irrigation system using an Arduino microcontroller to optimize water usage for plant cultivation. The system utilizes a soil moisture sensor to trigger a water pump automatically when the soil becomes dry.
-* **My Role:** Designed the hardware circuit, programmed the Arduino using C++, and calibrated the system to prevent both under- and over-watering, resulting in significant water conservation and improved plant health.
-* **Technologies:** Arduino, Soil Moisture Sensor, Water Pump, C++
-
----
-
-<p align="center">
-  ⭐ Don't forget to star my repositories if you find them interesting! ⭐
-</p>
+</div>

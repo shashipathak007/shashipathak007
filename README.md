@@ -18,16 +18,15 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=shashipathak007&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS)
 
 </div>
----
 
 ## About Me
 
 Computer Engineer specializing in **Frontend Development**, focused on building responsive, user-centric web applications with React, JavaScript, and Tailwind CSS. I care about clean, performant code and translating business needs into polished digital experiences.
 
-- 🔭 Currently building **Mind and Brain** (online counseling platform) and **ShopMe** (e-commerce)
-- 🌱 Deepening skills in **Agile/Scrum** and **Business Analysis**
-- 🚀 Comfortable deploying on **Netlify**, **Vercel**, and **GitHub Pages**
-- 📍 Based in Imadol, Lalitpur, Nepal
+- Currently building **Mind and Brain** (online counseling platform) and **ShopMe** (e-commerce)
+- Deepening skills in **Agile/Scrum** and **Business Analysis**
+- Comfortable deploying on **Netlify**, **Vercel**, and **GitHub Pages**
+- Based in Imadol, Lalitpur, Nepal
 
 ---
 
@@ -93,15 +92,26 @@ Arduino-based smart irrigation system using soil moisture sensors to trigger a w
 
 ---
 
-## Education
+<Div align="center">
+  
+ **EDUCATION:**
 
-| Degree | Institution | Year |
-|--------|-------------|------|
-| BE Computer Engineering | National Academy of Science and Technology, Dhangadhi | 2019 – 2024 |
-| +2 Science | National Academy of Science and Technology, Dhangadhi | — |
-| SEE | Gyan Niketan English Boarding School, Dhangadhi | — |
+| Degree | Institution | 
+|--------|-------------|
+| BE Computer Engineering | National Academy of Science and Technology, Dhangadhi 
+| +2 Science | National Academy of Science and Technology, Dhangadhi 
+| SEE | Gyan Niketan English Boarding School, Dhangadhi 
+</Div>
 
-**Certifications:** ICT Project Management · Frontend Web Development · Tailwind CSS · React
+---
+
+**CERTIFICATIONS & TRAINING:**
+
+• Front-End Web Development Professional – HTML, CSS, JavaScript, React.js, Tailwind CSS
+
+• ICT Project Management – Agile/Scrum methodologies and project lifecycle management
+
+• GitHub & Version Control – Git-based collaboration and code management
 
 ---
 

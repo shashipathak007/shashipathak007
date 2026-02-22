@@ -58,7 +58,7 @@ Interactive front-end for a counseling platform that visualizes brain function d
 ###  ShopMe — *E-Commerce Platform* &nbsp;`In Progress`
 Full-featured shopping site with product listings, dynamic cart, user authentication, and checkout flow. Built mobile-first with reusable React components.  
 **Stack:** React · Tailwind CSS · JavaScript  
- [GitHub Repo](https://github.com/shashipathak007/shopmee)
+ [Live Demo](https://shopmeecommerce.netlify.app)
 
 ---
 

@@ -48,6 +48,13 @@ Computer Engineer specializing in **Frontend Development**, focused on building 
 
 ## Projects
 
+###  Mothers Nest — *Antenatal Care Clinic* &nbsp;`In Progress`
+A comprehensive antenatal care clinic providing pregnancy monitoring, routine checkups, maternal health guidance, and personalized support for pregnant women to ensure safe and healthy pregnancies.  
+**Stack:** React · Tailwind CSS  
+ [Live Demo](https://mothersnest.netlify.app)
+
+---
+
 ###  Mind and Brain — *Online Counseling Platform* &nbsp;`In Progress`
 Interactive front-end for a counseling platform that visualizes brain function data. Leading component design, state management, and UX.  
 **Stack:** HTML · JavaScript · Tailwind CSS  

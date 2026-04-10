@@ -48,21 +48,21 @@ Computer Engineer specializing in **Frontend Development**, focused on building 
 
 ## Projects
 
-###  Mothers Nest — *Antenatal Care Clinic* &nbsp;`In Progress`
+###  Mothers Nest — *Antenatal Care Clinic* &nbsp;
 A comprehensive antenatal care clinic providing pregnancy monitoring, routine checkups, maternal health guidance, and personalized support for pregnant women to ensure safe and healthy pregnancies.  
 **Stack:** React · Tailwind CSS  
  [Live Demo](https://mothersnest.netlify.app)
 
 ---
 
-###  Mind and Brain — *Online Counseling Platform* &nbsp;`In Progress`
+###  Mind and Brain — *Online Counseling Platform* &nbsp;
 Interactive front-end for a counseling platform that visualizes brain function data. Leading component design, state management, and UX.  
 **Stack:** HTML · JavaScript · Tailwind CSS  
  [Live Demo](https://shashipathak007.github.io/MindAndBrain1/)
 
 ---
 
-###  ShopMe — *E-Commerce Platform* &nbsp;`In Progress`
+###  ShopMe — *E-Commerce Platform* &nbsp;
 Full-featured shopping site with product listings, dynamic cart, user authentication, and checkout flow. Built mobile-first with reusable React components.  
 **Stack:** React · Tailwind CSS · JavaScript  
  [Live Demo](https://shopmeecommerce.netlify.app)

@@ -24,7 +24,7 @@ Computer Engineer specializing in **Frontend Development**, focused on building 
 - Based in Imadol, Lalitpur, Nepal
 
 ---
-
+<!-- 
 ## Tech Stack
 
 **Frontend**
@@ -127,10 +127,10 @@ If you have something interesting, let's talk!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashi-s-pathak-0a667a337/)
 [![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashipathak446@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+977_9840287647-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9779840287647)
+[![WhatsApp](https: //img.shields.io/badge/WhatsApp-+977_9840287647-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9779840287647)
 
 <br/>
-
+-->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>

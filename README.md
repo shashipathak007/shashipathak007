@@ -16,7 +16,9 @@
 -->
 ## About Me
 
-Computer Engineer specializing in **Frontend Development**, focused on building responsive, user-centric web applications with React, JavaScript, and Tailwind CSS. I care about clean, performant code and translating business needs into polished digital experiences.
+```
+Hi, I'm **Shashi Shekhar Pathak** — a Computer Engineer & Frontend Developer based in Nepal, passionate about building things for the web and mobile.
+```
 <!-- 
 - Currently building **Mind and Brain** (online counseling platform) and **ShopMe** (e-commerce)
 - Deepening skills in **Agile/Scrum** and **Business Analysis**

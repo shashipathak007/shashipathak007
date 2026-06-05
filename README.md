@@ -16,9 +16,9 @@
 -->
 ## About Me
 
-```
+
 Hi, I'm **Shashi Shekhar Pathak** — a Computer Engineer & Frontend Developer based in Nepal, passionate about building things for the web and mobile.
-```
+
 <!-- 
 - Currently building **Mind and Brain** (online counseling platform) and **ShopMe** (e-commerce)
 - Deepening skills in **Agile/Scrum** and **Business Analysis**

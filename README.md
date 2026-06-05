@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shashi%20Shekhar%20Pathak&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20Computer%20Engineer%20%7C%20Nepal&descAlignY=55&descSize=16" width="100%"/>
 
 
-
+<!-- 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashi-s-pathak-0a667a337/)
@@ -13,18 +13,18 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=shashipathak007&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS)
 
 </div>
-
+-->
 ## About Me
 
 Computer Engineer specializing in **Frontend Development**, focused on building responsive, user-centric web applications with React, JavaScript, and Tailwind CSS. I care about clean, performant code and translating business needs into polished digital experiences.
-
+<!-- 
 - Currently building **Mind and Brain** (online counseling platform) and **ShopMe** (e-commerce)
 - Deepening skills in **Agile/Scrum** and **Business Analysis**
 - Comfortable deploying on **Netlify**, **Vercel**, and **GitHub Pages**
 - Based in Imadol, Lalitpur, Nepal
 
 ---
-<!-- 
+
 ## Tech Stack
 
 **Frontend**
